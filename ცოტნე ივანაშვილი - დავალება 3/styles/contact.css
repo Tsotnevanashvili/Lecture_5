@@ -1,0 +1,99 @@
+body {
+	margin: 0;
+    margin-top: 90px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+
+a {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+}
+
+.banner {
+	vertical-align: top;
+}
+
+.line {
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 45px;
+	vertical-align: middle;
+	margin: 0 41px;
+}
+
+.Text{
+	padding-top: 34px;
+}
+
+footer{
+	margin-top: 144px;
+}
+
+.Banner{
+	margin-left: 194px;
+}
+
+section{
+	background-color: #E7E7E7;
+	width: 1519px;
+	height:650px;
+	color: #4E6FAE;
+	padding-left: 0;
+	margin: 0; 
+	padding: 0;
+    display: inline-block;
+	margin-bottom: 106px;
+
+}
+
+.Contacti{
+	font-size: 36px;
+	padding-left: 162px;
+	padding-top: 93px;
+}
+
+.info{
+	padding-left: 162px;
+	padding-top: 27px;
+    color: black;
+}
+
+.Map{
+    display: inline-block;
+	margin-left: 648px;
+	width: 844px;
+	height: 500px;
+	margin-top: -200px;
+}

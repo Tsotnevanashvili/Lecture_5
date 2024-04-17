@@ -1,0 +1,66 @@
+body {
+	padding-left: 104px;
+	padding-top: 59px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.active {
+	margin-top: 14px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #4E6FAE;
+}
+
+.Ricxvi{
+	background-color: #5012D5;
+	color: #84FF81;
+	width: 70px;
+	height: 55px;
+	text-align: center;
+	margin-top: 14px;
+	font-weight: 700;
+	font-size: 30px;
+	margin-left: 46px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top: 15px;
+}	
+
+li {
+	margin-top: 14px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #8D81FF;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nostyle {
+	list-style-type: none;
+}
+
+.active2{
+	padding-left: 45px;
+	margin-top: 14px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #8D81FF;
+}
+
+.One{
+	color: #4E6FAE;
+	padding-left: 45px;
+	margin-top: 14px;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+img{
+	margin-left: 40px;
+}
+
+.Text{
+	padding-left: 45px;
+}
+
+.img{
+	margin-left: 40px;
+}

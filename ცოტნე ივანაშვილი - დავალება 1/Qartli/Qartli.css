@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(248, 248, 229);
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+
+}
+
+img{
+    margin: 8px;
+    padding: 8px;
+}
+
+.container{
+    padding: 5px;
+    max-width: 960px;
+    width: 95%;
+    margin: 2px auto;
+}
+
+header{
+    padding: 0 15px;
+    text-align: center;
+    font-size: 21px;
+}
+.columns{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 5px 0;
+}
+
+.column{
+    flex: 1;
+    border: 1px solid #666;
+    margin: 2px;
+    padding: 10px;
+    background: #3af4d5;
+    transition: 0.3s;
+}
+
+.column2{
+    flex: 1;
+    border: 1px solid #666;
+    margin: 2px;
+    padding: 10px;
+    background: #3af4d5;
+    transition: 0.3s;
+}
+
+.column3{
+    flex: 1;
+    border: 1px solid #666;
+    margin: 2px;
+    padding: 10px;
+    background: #3af4d5;
+    transition: 0.3s;
+}
+
+.Demografia{
+    text-align: center;
+}
+
+.ekonomika{
+    width: 700px;
+    height: 400px;
+    margin-left: 100px;
+}
+.Demografia2{
+    width: 700px;
+    height: 400px;
+    margin-left: 100px;
+}
