@@ -1,0 +1,113 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+div{
+    display: inline-block;
+}
+
+h4{
+    display: inline;
+    margin-left: 35px;
+}
+
+.HOME{
+    display: inline;
+    margin-left: auto;
+    margin-left: 137px;
+}
+
+.Round{
+    vertical-align: middle;
+    margin-left: 29px;
+}
+
+h1{
+    margin-top: 42px;
+    margin-left: 137px;
+}
+
+.img{
+    display: inline-block;
+    margin-left: 40px;
+}
+
+img{
+    margin-left: 137px;
+}
+
+.text{
+    background-color: rgb(249, 249, 249);
+    width: 335px;
+    height: 120px;
+    display: inline-block;
+    margin-top: -5px;
+    margin-left: 137px;
+    padding-top: 86px;
+    padding-left: 27px;
+    font-size: 13px;
+    line-height: 30px;
+}
+
+.Clock{
+    display: inline;
+    margin-left: -329px;
+    vertical-align: bottom;
+    margin-bottom: 24px;
+}
+
+.minute{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: bottom;
+    font-size: 14px;
+}
+
+
+.text2{
+    background-color: rgb(249, 249, 249);
+    width: 335px;
+    height: 120px;
+    display: inline-block;
+    margin-top: -5px;
+    margin-left: 276px;
+    padding-top: 86px;
+    padding-left: 27px;
+    font-size: 13px;
+    line-height: 30px;
+}
+
+.text3{
+    background-color: rgb(249, 249, 249);
+    width: 335px;
+    height: 120px;
+    display: inline-block;
+    margin-top: -5px;
+    margin-left: 276px;
+    padding-top: 86px;
+    padding-left: 27px;
+    font-size: 13px;
+    line-height: 30px;
+}
+
+.photo1{
+    margin-left: 137px;
+    margin-bottom: 40px;
+}
+
+.photo2{
+    margin-left: 50px;
+    vertical-align: top;
+}
+
+.photo3{
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: -126px
+}
+
+.photo4{
+    margin-left: 946px;
+    vertical-align: top;
+    margin-top: -297px;
+}
